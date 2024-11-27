@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vocabulary", "Vocabulary\Vocabulary.csproj", "{FF217CC6-A6B7-4681-8757-8160FDF162AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "Numbers\Numbers.csproj", "{2057B1F2-DB96-4DBF-A7E1-A23147E61E6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{E7A15A2A-4269-47FB-A04E-DE92494725AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{FF217CC6-A6B7-4681-8757-8160FDF162AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF217CC6-A6B7-4681-8757-8160FDF162AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF217CC6-A6B7-4681-8757-8160FDF162AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2057B1F2-DB96-4DBF-A7E1-A23147E61E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2057B1F2-DB96-4DBF-A7E1-A23147E61E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2057B1F2-DB96-4DBF-A7E1-A23147E61E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2057B1F2-DB96-4DBF-A7E1-A23147E61E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A15A2A-4269-47FB-A04E-DE92494725AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A15A2A-4269-47FB-A04E-DE92494725AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A15A2A-4269-47FB-A04E-DE92494725AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A15A2A-4269-47FB-A04E-DE92494725AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
